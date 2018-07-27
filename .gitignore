@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+
+# Python
+.pyc
+
+# TensorLayer Model
+*.npz
+
+# TensorLayer logs
+logs/
+
+# Train data
+data/
+
+# Cache
+.idea/
