@@ -1,6 +1,10 @@
 # Demo001
 
-## 1 mnist
+## 0 简介
+
+1. 在训练的过程中使用tensorboard，会生成logs文件夹，其中文件为`events.out.tfevents*`，在终端执行`tensorboard --logdir=logs/`，然后就可以在指定的端口上访问该平台。
+
+## 1 mnist_example
 
 使用Dropout和Dense实现一个对mnist数据集的预测。
 1. 训练过程
