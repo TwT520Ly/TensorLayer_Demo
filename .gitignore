@@ -33,7 +33,7 @@
 
 
 # Python
-.pyc
+*.pyc
 
 # TensorLayer Model
 *.npz
@@ -42,7 +42,7 @@
 logs/
 
 # Train data
-data/
+*.gz
 
 # Cache
 .idea/
