@@ -37,6 +37,8 @@
 
 # TensorLayer Model
 *.npz
+*.ckpt.*
+checkpoint
 
 # TensorLayer logs
 logs/
