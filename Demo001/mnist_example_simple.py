@@ -1,5 +1,4 @@
 import tensorlayer as tl
-import numpy as np
 import tensorflow as tf
 
 sess = tf.InteractiveSession()
